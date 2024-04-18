@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.title_text {
+ text-align: center;
+}
+.text{
+display: inline-block;
+}
